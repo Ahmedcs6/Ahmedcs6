@@ -44,15 +44,14 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 <div align="center">
   
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedcs6&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedcs6&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ahmedcs6&theme=dark&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedcs6&theme=dark&hide_border=false)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedcs6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedcs6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 </div>
 
