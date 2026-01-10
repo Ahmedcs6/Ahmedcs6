@@ -3,15 +3,14 @@
 ---
 
 ## 💫 About Me:
-- 🎓 Computer Science Student  
-- 🖥️ Passionate about **Programming & Software Development**  
-- 🔭 Currently focusing on **C++ (OOP, DSA, Problem Solving)**  
-- 🌱 Learning **Low-level concepts, System Fundamentals, web scraping & automation, and c#(for asp.net)**  
-- 🏆 Practicing on **Codeforces / LeetCode**  
+- 🎓 Computer Science Student
+- 🖥️ Passionate about **Programming & Software Development**
+- 🔭 Currently focusing on **C++(DSA, Compatetive Programming, SDL2), C#**
+- 🌱 Learning **C#(for asp.net), DB, WebScraping, Computer Graphics**
+- 🏆 Practicing on **Codeforces / LeetCode**
 - 👯 Open to collaborate on **Open Source & Academic Projects**  
-- 🤔 Interested in **Algorithms, Reverse Engineering, and Linux Systems**  
-- 💬 Ask me about **C++, Python, and Problem Solving**  
-- 📚 Always exploring new technologies & building strong fundamentals  
+- 🤔 Interested in **Linux, low level concepts, DSA, CP**
+- 💬 Ask me about **C++, Python, Linux, CP**
   
 ---
 
