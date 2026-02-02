@@ -18,11 +18,11 @@
 <p><h2 align="center">Competitive Programming</h2></p>
 <p align="center">
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Abdallah_Alqiran" target="_blank">
+  <a href="https://codeforces.com/profile/Mexican" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"  height="40" alt="Codeforces"/>
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Abdallah_Alqiran/" target="_blank">
+  <a href="https://leetcode.com/u/Ahmed_cs6/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
          alt="LeetCode" height="40"/>
   </a>
