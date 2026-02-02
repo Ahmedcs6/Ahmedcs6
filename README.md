@@ -1,4 +1,4 @@
-<p align="center"><h2>Programming Languages</h2></p>
+<p align="center"><h2 align="center">Programming Languages</h2></p>
 <p align="center">
   <!-- C++ -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -8,14 +8,14 @@
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <hr>
-<p align="center"><h2>Technology and some skills</h2></p>
+<p align="center"><h2 align="center">Technology and some skills</h2></p>
 <p align="center">
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="Arch" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Nvim" width="40" height="40"/>
 </p>
 <hr>
-<p align="center"><h2>Competitive Programming</h2></p>
+<p align="center"><h2 align="center">Competitive Programming</h2></p>
 <p align="center">
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Abdallah_Alqiran" target="_blank">
@@ -39,7 +39,7 @@
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmedcs6&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
 </div>
 <hr>
-<p align="center"><h2>🌐 Connect with me</h2></p>
+<p align="center"><h2 align="center">🌐 Connect with me</h2></p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoudmos@gmai.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201011618593)  
