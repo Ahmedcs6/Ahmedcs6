@@ -14,17 +14,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mexican)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ahmed_cs6/)  
 
-## 📊 GitHub Stats
-<div align="center">
-  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedcs6&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ahmedcs6&theme=dark&hide_border=false)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedcs6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-</div>
-
 ---
 ## 📊 GitHub Statistics
 
