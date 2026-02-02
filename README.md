@@ -8,12 +8,19 @@
 </p>
 <p align="center">
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt=".Net" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="Arch" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Nvim" width="40" height="40"/>
 </p>
-### cp  
 <p align="center">
-[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mexican)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ahmed_cs6/)  
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Abdallah_Alqiran" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"  height="40" alt="Codeforces"/>
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Abdallah_Alqiran/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" height="40"/>
+  </a>
 </p>
 ---
 ## 📊 GitHub Statistics
