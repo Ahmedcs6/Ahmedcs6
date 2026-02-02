@@ -7,11 +7,9 @@
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <p align="center">
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
+    <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt=".Net" width="40" height="40"/>
 </p>
-
 ### cp  
 <p align="center">
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mexican)  
