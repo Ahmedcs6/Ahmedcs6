@@ -1,48 +1,18 @@
-#  Hey 👋, I'm Ahmed Mahmoud  
+##
+<p align="center">
+    <img src="https://img.shields.io/badge/LANG-Cpp-blue?colorA=00070B&colorB=C488EC&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-C#-blue?colorA=00070B&colorB=FF8F40&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=00070B&colorB=6791C9&style=for-the-badge" />
+</p>
 
----
-
-## 💫 About Me:
-- 🎓 Computer Science Student
-- 🖥️ Passionate about **Programming & Software Development**
-- 🔭 Currently focusing on **C++(DSA, Compatetive Programming, SDL2), C#**
-- 🌱 Learning **C#(for asp.net), DB, WebScraping, Computer Graphics**
-- 🏆 Practicing on **Codeforces / LeetCode**
-- 👯 Open to collaborate on **Open Source & Academic Projects**  
-- 🤔 Interested in **Linux, low level concepts, DSA, CP**
-- 💬 Ask me about **C++, Python, Linux, CP**
-  
----
-
-## 🚀 Skills  
-
-
-### 👨‍💻 Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-### 🛠️ Frameworks & Tools  
+###
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
   
-### ⚔ Competitive Programming Profiles  
+### cp  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mexican)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ahmed_cs6/)  
-
-### 🌍 Languages  
-![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-blue?style=for-the-badge)
-
-### 🖥 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -56,9 +26,22 @@
 </div>
 
 ---
+## 📊 GitHub Statistics
 
-## 🌐 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedcs6)  
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmedcs6&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahmedcs6&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+
+
+
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmedcs6&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
+</div>
+---
+
+## 🌐 Connect with me    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoudmos@gmai.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201011618593)  
