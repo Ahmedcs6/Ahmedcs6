@@ -1,11 +1,11 @@
-##
 <p align="center">
-    <img src="https://img.shields.io/badge/LANG-Cpp-blue?colorA=00070B&colorB=C488EC&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp" />
-    <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=00070B&colorB=6791C9&style=for-the-badge" />
+  <!-- C++ -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <!-- C# -->
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/>
+  <!-- Python -->
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
-
-###
 <p align="center">
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
