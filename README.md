@@ -1,4 +1,5 @@
 <p align="center">
+  <h2>Programming Languages</h2>
   <!-- C++ -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <!-- C# -->
@@ -6,12 +7,16 @@
   <!-- Python -->
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+<hr>
 <p align="center">
+    <h2>Technology and some skills</h2>
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="Arch" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Nvim" width="40" height="40"/>
 </p>
+<hr>
 <p align="center">
+  <h2>Competitive Programming</h2>
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Abdallah_Alqiran" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"  height="40" alt="Codeforces"/>
@@ -22,9 +27,7 @@
          alt="LeetCode" height="40"/>
   </a>
 </p>
----
-## 📊 GitHub Statistics
-
+<hr>
 </div>
 
 <div align="center">
@@ -36,8 +39,7 @@
 
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmedcs6&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
 </div>
----
-
+<hr>
 ## 🌐 Connect with me    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoudmos@gmai.com)  
