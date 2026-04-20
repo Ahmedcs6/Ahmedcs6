@@ -1,61 +1,62 @@
-<p><h2 align="center">Programming Languages</h2></p>
-<p style="display:flex;flex-direction:row;justify-content:center">
-  <!-- C++ -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <!-- C# -->
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/>
-  <!-- Python -->
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<h2 align="center">💻 Programming Languages</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
-<hr>
-<p><h2 align="center">Technology and some skills</h2></p>
-<p style="display:flex;flex-direction:row;justify-content:center">
-    <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="Arch" width="40" height="40"/>
-    <img src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Nvim" width="40" height="40"/>
+
+---
+
+<h2 align="center">⚙️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
 </p>
-<hr>
-<p><h2 align="center">Competitive Programming</h2></p>
-<p style="display:flex;flex-direction:row;justify-content:center">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Mexican" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"  height="40" alt="Codeforces"/>
+
+---
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Mexican">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="45"/>
   </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Ahmed_cs6/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode" height="40"/>
+  <a href="https://leetcode.com/u/Ahmed_cs6/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   </a>
 </p>
-<hr>
-</div>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmedcs6&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahmedcs6&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahmedcs6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedcs6&theme=tokyonight&hide_border=true" />
+</p>
 
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmedcs6&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
-</div>
-<hr>
-<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedcs6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<p style="display:flex;flex-direction:row;justify-content:center">
-  <a href="https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/" target="_blank">
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:ahmedmahmoudmos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://wa.me/201011618593" target="_blank">
+  <a href="https://wa.me/201011618593">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-
-  <a href="https://t.me/@Ahmed_cs6" target="_blank">
+  <a href="https://t.me/Ahmed_cs6">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
