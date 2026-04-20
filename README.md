@@ -1,5 +1,5 @@
 <p><h2 align="center">Programming Languages</h2></p>
-<p align="center">
+<p style="display:flex">
   <!-- C++ -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <!-- C# -->
@@ -9,14 +9,14 @@
 </p>
 <hr>
 <p><h2 align="center">Technology and some skills</h2></p>
-<p align="center">
+<p style="display:flex">
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".Net" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="Arch" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Nvim" width="40" height="40"/>
 </p>
 <hr>
 <p><h2 align="center">Competitive Programming</h2></p>
-<p align="center">
+<p style="display:flex">
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Mexican" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"  height="40" alt="Codeforces"/>
@@ -41,7 +41,7 @@
 <hr>
 <h2 align="center">🌐 Connect with me</h2>
 
-<p align="center">
+<p style="display:flex">
   <a href="https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
