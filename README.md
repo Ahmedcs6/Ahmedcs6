@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Mexican">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/codeforces.svg" width="45"/>
   </a>
   <a href="https://leetcode.com/u/Ahmed_cs6/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
