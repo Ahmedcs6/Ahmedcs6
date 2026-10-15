@@ -1,9 +1,9 @@
 <h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="./src/C++-Logo.wine.svg" width="45"/>
+  <img src="./src/C# (CSharp).svg" width="45"/>
+  <img src="./src/python.svg" width="45"/>
 </p>
 
 ---
@@ -11,9 +11,9 @@
 <h2 align="center">⚙️ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
+  <img src="./src/dotnet.svg" width="45"/>
+  <img src="./src/Arch_Linux__Crystal__icon.svg" width="45"/>
+  <img src="./src/neovim-mark@2x.svg" width="45"/>
 </p>
 
 ---
@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Mexican">
-    <img src="https://simpleicons.org/icons/codeforces.svg" width="45"/>
+    <img src="./src/codeforces-svgrepo-com.svg" width="45"/>
   </a>
   <a href="https://leetcode.com/u/Ahmed_cs6/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+    <img src="./src/leetcode.svg" width="45"/>
   </a>
 </p>
 
