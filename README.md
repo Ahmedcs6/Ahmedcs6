@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./src/ISO_C++_Logo.svg" width="45"/>
-  <img src="./src/C%23%20(CSharp).svg" width="45"/>
+  <img src="./src/C%23%20(CSharp).svg" width="40"/>
   <img src="./src/python.svg" width="45"/>
 </p>
 
