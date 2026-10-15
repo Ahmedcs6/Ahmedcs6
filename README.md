@@ -12,7 +12,7 @@
 <p align="center">
   <img src="./src/dotnet.svg" width="45"/>
   <img src="./src/Arch_Linux__Crystal__icon.svg" width="45"/>
-  <img src="./src/neovim-mark@2x.svg" width="45"/>
+  <img src="./src/neovim-mark@2x.svg" width="40"/>
 </p>
 
 ---
