@@ -47,15 +47,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mahmoud-a6930a247/">
-    <img src="./src/linkedin-svgrepo-com.svg"/>
+    <img src="./src/linkedin-svgrepo-com.svg" width="20"/>
   </a>
   <a href="mailto:ahmedmahmoudmos@gmail.com">
-    <img src="./src/google-gmail-svgrepo-com.svg"/>
+    <img src="./src/google-gmail-svgrepo-com.svg" width="20"/>
   </a>
   <a href="https://wa.me/201011618593">
-    <img src="./src/whatsapp-svgrepo-com.svg"/>
+    <img src="./src/whatsapp-svgrepo-com.svg" width="20"/>
   </a>
   <a href="https://t.me/Ahmed_cs6">
-    <img src="./src/telegram-svgrepo-com.svg"/>
+    <img src="./src/telegram-svgrepo-com.svg" width="20"/>
   </a>
 </p>
