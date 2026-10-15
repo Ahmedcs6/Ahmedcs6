@@ -1,7 +1,7 @@
 <h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
-  <img src="./src/C++-Logo.wine.svg" width="45"/>
+  <img src="./src/ISO_C++_Logo.svg" width="45"/>
   <img src="./src/C# (CSharp).svg" width="45"/>
   <img src="./src/python.svg" width="45"/>
 </p>
